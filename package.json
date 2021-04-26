@@ -27,8 +27,8 @@
   "homepage": "https://github.com/painty/CSS-Used-ChromeExt#readme",
   "dependencies": {
     "is-utf8": "^0.2.1",
-    "postcss": "^7.0.5",
-    "postcss-safe-parser": "^4.0.1",
+    "postcss": "^8.2.13",
+    "postcss-safe-parser": "^5.0.0",
     "urijs": "^1.19.1"
   },
   "devDependencies": {
